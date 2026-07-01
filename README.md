@@ -16,3 +16,6 @@ This project was created to learn on how you can establish wireless communicatio
 
 ##  Schematic
 ![Circuit Schematic](images/schematic.png)
+
+## Project Video Demo
+<video src="Media/test_demo.mp4" controls autoplay loop muted width="100%"></video>
