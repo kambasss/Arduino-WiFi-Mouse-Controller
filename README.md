@@ -15,4 +15,4 @@ This project was created to learn on how you can establish wireless communicatio
 * Jumper Wires
 
 ##  Schematic
-![Circuit Schematic](Images/schematic.png)
+![Circuit Schematic](images/schematic.png)
